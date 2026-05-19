@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seamusmcpeake
-- 👀 I’m interested in ... UX Research & Product Design; Data Analysis.
-- 🌱 I’m currently learning ... SQL, Sketch
+- 👀 I’m interested in ... UX Design & Product Design; Data Analysis.
+- 🌱 I’m currently learning ... AI Tooling
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... seamusmcpeake@gmail.com
 
